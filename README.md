@@ -7,4 +7,4 @@
 |gender|female|
 |anime|Chainsaw Man|
   
-**一押し♥**
+**♥一押し♥**
