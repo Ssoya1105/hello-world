@@ -1,10 +1,7 @@
-# マキマ
-**Makima**
+## 日付
+- 2022/1/12
+## 自己紹介リスト
+- [target1](https://github.com/ShuntaKumada/hello-world)
+- [target2](https://github.com/Ssoya1105/hello-world)
 
-| Syntax | Description |
-| ----------- | ----------- |
-|name|Makima|
-|gender|female|
-|anime|Chainsaw Man|
-  
-**♥一押し♥**
+
