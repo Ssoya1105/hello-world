@@ -1,6 +1,10 @@
-# ソフトウェア工学練習
-## 日付
-2023/01/12
-## 自己紹介リスト
-- [target1](https://github.com/Ssoya1105/hello-world/blob/main/intro.md)
-- [target2](https://github.com/Ssoya1105/hello-world/blob/main/intro2.md)
+# マキマ
+**Makima**
+
+| Syntax | Description |
+| ----------- | ----------- |
+|name|Makima|
+|gender|female|
+|anime|Chainsaw Man|
+  
+**♥一押し♥**
