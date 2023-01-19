@@ -8,4 +8,3 @@
 |anime|Chainsaw Man|
   
 **♥一押し♥**
-![makima](C:\Users\Ssoya\Downloads) 
